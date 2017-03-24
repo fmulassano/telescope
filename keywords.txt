@@ -1,0 +1,3 @@
+Telescope KEYWORD1
+linea KEYWORD2
+punto KEYWORD2

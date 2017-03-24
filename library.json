@@ -1,0 +1,25 @@
+{
+  "name": "TELESCOPE Library",
+  "version": "0.0.1",
+  "keywords": "midi",
+  "description": "Library for the hardware Telescope by Fase Lunare",
+  "license": "MIT",
+  "authors":
+  {
+    "name": "Francesco Mulassano",
+    "email": "francesco.mulassano@gmail.com",
+    "url": "https://github.com/fmulassano",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/fmulassano/telescope.git",
+    "branch": "master"
+  },
+  "downloadUrl": "https://github.com/fmulassano/telescope/releases/tag/0.0.1",
+  "include": "src",
+  "examples": "examples/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": ["atmelavr", "atmelsam", "teensy"]
+ }
